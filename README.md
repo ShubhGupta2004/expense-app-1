@@ -1,7 +1,7 @@
 
 # Expense Tracker App
 
-This is a simple **Expense Tracker** web application built using:
+This is a simple **Expense Tracker** web application builts using:
 - **Frontend:** React.js
 Link to  our App : [Our App ](https://pw-expense-app-1.vercel.app/).
 
